@@ -1,5 +1,7 @@
 {
   "name": "Doora AI",
   "description": "مساعد ذكاء اصطناعي متخصص في التسويق الرقمي، صناعة المحتوى، تطوير الأعمال، تحليل المنافسين، وكتابة محتوى فيروسي لمنصات التواصل الاجتماعي.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }
